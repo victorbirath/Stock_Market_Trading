@@ -10,6 +10,7 @@
 
 class GUI {
 public:
+
 	GUI();
 	virtual ~GUI();
 };
